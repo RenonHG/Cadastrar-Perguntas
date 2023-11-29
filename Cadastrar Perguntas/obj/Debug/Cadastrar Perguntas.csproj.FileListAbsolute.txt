@@ -33,10 +33,11 @@ C:\Users\renon.hgusson\source\repos\Cadastrar Perguntas\Cadastrar Perguntas\bin\
 C:\Users\renon.hgusson\source\repos\Cadastrar Perguntas\Cadastrar Perguntas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\renon.hgusson\source\repos\Cadastrar Perguntas\Cadastrar Perguntas\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\renon.hgusson\source\repos\Cadastrar Perguntas\Cadastrar Perguntas\obj\Debug\Cadastrar Perguntas.csproj.AssemblyReference.cache
-C:\Users\renon.hgusson\source\repos\Cadastrar Perguntas\Cadastrar Perguntas\obj\Debug\Cadastrar_Perguntas.Form1.resources
 C:\Users\renon.hgusson\source\repos\Cadastrar Perguntas\Cadastrar Perguntas\obj\Debug\Cadastrar_Perguntas.Properties.Resources.resources
 C:\Users\renon.hgusson\source\repos\Cadastrar Perguntas\Cadastrar Perguntas\obj\Debug\Cadastrar Perguntas.csproj.GenerateResource.cache
 C:\Users\renon.hgusson\source\repos\Cadastrar Perguntas\Cadastrar Perguntas\obj\Debug\Cadastrar Perguntas.csproj.CoreCompileInputs.cache
 C:\Users\renon.hgusson\source\repos\Cadastrar Perguntas\Cadastrar Perguntas\obj\Debug\Cadastrar Perguntas.csproj.CopyComplete
 C:\Users\renon.hgusson\source\repos\Cadastrar Perguntas\Cadastrar Perguntas\obj\Debug\Cadastrar Perguntas.exe
 C:\Users\renon.hgusson\source\repos\Cadastrar Perguntas\Cadastrar Perguntas\obj\Debug\Cadastrar Perguntas.pdb
+C:\Users\renon.hgusson\source\repos\Cadastrar Perguntas\Cadastrar Perguntas\obj\Debug\Cadastrar_Perguntas.frmCadastrarPergunta.resources
+C:\Users\renon.hgusson\source\repos\Cadastrar Perguntas\Cadastrar Perguntas\obj\Debug\Cadastrar_Perguntas.FrmConsultarPergunta.resources

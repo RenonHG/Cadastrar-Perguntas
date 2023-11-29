@@ -1,6 +1,6 @@
 ﻿namespace Cadastrar_Perguntas
 {
-    partial class Form1
+    partial class frmCadastrarPergunta
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -42,6 +42,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.btnCadastrar = new System.Windows.Forms.Button();
+            this.btnJogar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // rtxPergunta
@@ -158,7 +159,7 @@
             // 
             // btnCadastrar
             // 
-            this.btnCadastrar.Location = new System.Drawing.Point(34, 317);
+            this.btnCadastrar.Location = new System.Drawing.Point(136, 283);
             this.btnCadastrar.Name = "btnCadastrar";
             this.btnCadastrar.Size = new System.Drawing.Size(75, 23);
             this.btnCadastrar.TabIndex = 13;
@@ -166,11 +167,22 @@
             this.btnCadastrar.UseVisualStyleBackColor = true;
             this.btnCadastrar.Click += new System.EventHandler(this.btnCadastrar_Click);
             // 
-            // Form1
+            // btnJogar
+            // 
+            this.btnJogar.Location = new System.Drawing.Point(110, 311);
+            this.btnJogar.Name = "btnJogar";
+            this.btnJogar.Size = new System.Drawing.Size(127, 70);
+            this.btnJogar.TabIndex = 14;
+            this.btnJogar.Text = "Jogar";
+            this.btnJogar.UseVisualStyleBackColor = true;
+            this.btnJogar.Click += new System.EventHandler(this.btnJogar_Click);
+            // 
+            // frmCadastrarPergunta
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(563, 393);
+            this.Controls.Add(this.btnJogar);
             this.Controls.Add(this.btnCadastrar);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -185,8 +197,8 @@
             this.Controls.Add(this.txbAlternativaB);
             this.Controls.Add(this.txbAlternativaA);
             this.Controls.Add(this.rtxPergunta);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "frmCadastrarPergunta";
+            this.Text = "Cadastrar Pergunta";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -208,6 +220,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button btnCadastrar;
+        private System.Windows.Forms.Button btnJogar;
     }
 }
 
